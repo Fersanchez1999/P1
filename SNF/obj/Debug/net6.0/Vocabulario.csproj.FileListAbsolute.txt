@@ -39,3 +39,15 @@ D:\Aplicaciones\Practicas\PL1\SNF\obj\Debug\net6.0\Vocabulario.dll
 D:\Aplicaciones\Practicas\PL1\SNF\obj\Debug\net6.0\refint\Vocabulario.dll
 D:\Aplicaciones\Practicas\PL1\SNF\obj\Debug\net6.0\Vocabulario.pdb
 D:\Aplicaciones\Practicas\PL1\SNF\obj\Debug\net6.0\ref\Vocabulario.dll
+C:\Users\UO263562\Downloads\Practica1\SNF\bin\Debug\net6.0\Vocabulario.deps.json
+C:\Users\UO263562\Downloads\Practica1\SNF\bin\Debug\net6.0\Vocabulario.dll
+C:\Users\UO263562\Downloads\Practica1\SNF\bin\Debug\net6.0\Vocabulario.pdb
+C:\Users\UO263562\Downloads\Practica1\SNF\obj\Debug\net6.0\Vocabulario.csproj.AssemblyReference.cache
+C:\Users\UO263562\Downloads\Practica1\SNF\obj\Debug\net6.0\Vocabulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UO263562\Downloads\Practica1\SNF\obj\Debug\net6.0\Vocabulario.AssemblyInfoInputs.cache
+C:\Users\UO263562\Downloads\Practica1\SNF\obj\Debug\net6.0\Vocabulario.AssemblyInfo.cs
+C:\Users\UO263562\Downloads\Practica1\SNF\obj\Debug\net6.0\Vocabulario.csproj.CoreCompileInputs.cache
+C:\Users\UO263562\Downloads\Practica1\SNF\obj\Debug\net6.0\Vocabulario.dll
+C:\Users\UO263562\Downloads\Practica1\SNF\obj\Debug\net6.0\refint\Vocabulario.dll
+C:\Users\UO263562\Downloads\Practica1\SNF\obj\Debug\net6.0\Vocabulario.pdb
+C:\Users\UO263562\Downloads\Practica1\SNF\obj\Debug\net6.0\ref\Vocabulario.dll

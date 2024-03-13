@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Aplicaciones\\Practicas\\PL1\\Server\\Server.csproj": {}
+    "C:\\Users\\UO263562\\Downloads\\Practica1\\Server\\Server.csproj": {}
   },
   "projects": {
-    "F:\\Aplicaciones\\Practicas\\PL1\\Server\\Server.csproj": {
+    "C:\\Users\\UO263562\\Downloads\\Practica1\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Aplicaciones\\Practicas\\PL1\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\UO263562\\Downloads\\Practica1\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "F:\\Aplicaciones\\Practicas\\PL1\\Server\\Server.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "F:\\Aplicaciones\\Practicas\\PL1\\Server\\obj\\",
+        "projectPath": "C:\\Users\\UO263562\\Downloads\\Practica1\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\UO263562\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UO263562\\Downloads\\Practica1\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UO263562\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Aplicaciones\\Practicas\\PL1\\SNF\\Vocabulario.csproj": {
-                "projectPath": "F:\\Aplicaciones\\Practicas\\PL1\\SNF\\Vocabulario.csproj"
+              "C:\\Users\\UO263562\\Downloads\\Practica1\\SNF\\Vocabulario.csproj": {
+                "projectPath": "C:\\Users\\UO263562\\Downloads\\Practica1\\SNF\\Vocabulario.csproj"
               }
             }
           }
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,21 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Aplicaciones\\Practicas\\PL1\\SNF\\Vocabulario.csproj": {
+    "C:\\Users\\UO263562\\Downloads\\Practica1\\SNF\\Vocabulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Aplicaciones\\Practicas\\PL1\\SNF\\Vocabulario.csproj",
+        "projectUniqueName": "C:\\Users\\UO263562\\Downloads\\Practica1\\SNF\\Vocabulario.csproj",
         "projectName": "Vocabulario",
-        "projectPath": "F:\\Aplicaciones\\Practicas\\PL1\\SNF\\Vocabulario.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "F:\\Aplicaciones\\Practicas\\PL1\\SNF\\obj\\",
+        "projectPath": "C:\\Users\\UO263562\\Downloads\\Practica1\\SNF\\Vocabulario.csproj",
+        "packagesPath": "C:\\Users\\UO263562\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UO263562\\Downloads\\Practica1\\SNF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UO263562\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,7 +104,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -112,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
